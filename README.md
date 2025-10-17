@@ -1,1 +1,1 @@
-En la V1, el programa de Python y Arduino de tierra está en el paso 9 y funciona correctamente, pero el del satélite no.
+Estem al Pas 11, només que la gráfica no funciona quan prenem els butons iniciar, parar i reanudar.
