@@ -1,9 +1,13 @@
+#include <SoftwareSerial.h>
+SoftwareSerial mySerial(10, 11); // RX, TX 
+unsigned long nextMillis = 500;
 void setup() {
-  // put your setup code here, to run once:
-
+   Serial.begin(9600);
+   mySerial.begin(9600);
 }
-
 void loop() {
-  // put your main code here, to run repeatedly:
-
-}
+   if (Serial.available()) {
+       String line = Serial.readString();
+      mySerial.println(line);
+      }
+   }
