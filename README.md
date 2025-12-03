@@ -2,5 +2,6 @@ El paso de las medias no está entero pero si que tenemos los códigos unitarios
 
 Video Versión2: https://youtu.be/2Swc2H1iLk4
 
-Video Versión3: en proceso
+Video Versión3: https://youtu.be/LPQKkWT3guA
+
 
