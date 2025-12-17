@@ -110,19 +110,6 @@ La interfaz permite:
  	Ver datos en tiempo real o cargados previamente.
 
 
-
-
-
-🧰Funcionalidades destacadas:
-
-	 Implementación de un joystick para controlar el radar de proximidad de forma manual, permitiendo al usuario explorar el entorno de manera interactiva.
-
-	Implementación de una órbita 3D en la interfaz gráfica, facilitando la visualización de la posición y trayectoria del satélite en el espacio.
-
-	Implementación de un groundtrack que muestra la proyección del recorrido del satélite sobre la superficie terrestre.
-
-	Uso de comunicaciones más ligeras y eficientes para optimizar el envío de datos entre el satélite y la estación tierra.
-
 📨Protocolo de Aplicación:
 
 
