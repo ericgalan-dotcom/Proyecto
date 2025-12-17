@@ -25,25 +25,25 @@ Este proyecto consiste en un sistema satelital basado en Arduino capaz de enviar
 
 
 
- 	🌡️ Sensor de temperatura y humedad.
+ 	🌡️ Sensor de temperatura y humedad
 
 
 
 
 
- 	📡 Radar para mapeo básico de proximidad, que se puede utilizar automáticamente o manualmente mediante un joystick.
+ 	📡 Radar para mapeo básico de proximidad, que se puede utilizar automáticamente o manualmente mediante un joystick
 
 
 
 
 
- 	🌌 Sistema de comunicación de su posición en el espacio.
+ 	🌌 Sistema de comunicación de su posición en el espacio
 
 
 
 
 
- 	📊 Visualización en una interfaz de Python con gráficos seleccionables por el usuario.
+ 	📊 Visualización en una interfaz de Python con gráficos seleccionables por el usuario
 
 
 
