@@ -47,8 +47,15 @@ Este proyecto consiste en un sistema satelital basado en Arduino capaz de enviar
 
 
 
+🧰 Funcionalidades destacadas
 
+	Implementación de un joystick para controlar el radar manualmente.
 
+	Implementación de una órbita en 3D en la interfaz gráfica, facilitando la posición y trayectoria del satélite
+
+	Implementación de un grountrack que muestra la proyección del recorrido del satélite sobre la superfície terrestre.
+
+	Uso de comunicaciones más ligeras y eficientes para optimizar el envío de datos entre satélite y estación tierra.
 
 
 🎥 Videos del Proyecto
