@@ -1,7 +1,6 @@
 👥 Grupo 13
 
 
-
  	Sebastián Simó
 
 
@@ -183,14 +182,6 @@ P: (X:... Y:... Z:...)     → Posición 3D de la órbita del satélite
 
 
 🔌Conexiones:
-
-
-
-
-
-
-
-
 
 
 
