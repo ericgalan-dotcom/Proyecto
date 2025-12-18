@@ -74,3 +74,5 @@ La interfaz permite:
 
 
 🔌 Conexiones
+<img width="1305" height="2047" alt="image" src="https://github.com/user-attachments/assets/d653c073-8d0d-4888-a54c-58aab3ff6be7" />
+<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/962084d6-ef0b-46ce-8600-9a28bb710b60" />
