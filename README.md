@@ -53,7 +53,6 @@ La interfaz permite:
 
 📨 Protocolo de Aplicación
 
-```
 T:...:H:...:D:...:A:...    → Temperatura (T), Humedad (H), Distancia (D) y Ángulo del servo (A)
 FALLO                      → Error en sensor DHT11
 DIST                       → Error en sensor ultrasónico
