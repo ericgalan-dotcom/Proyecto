@@ -34,8 +34,8 @@ Este proyecto consiste en un sistema satelital basado en Arduino, capaz de envia
 🎥 Videos del Proyecto
 
 * Versión 1 → https://youtu.be/cQfJn75w86E
-* Versión 2 → https://youtu.be/2Swc2H1iLk4
-* Versión 3 → https://youtu.be/LPQKkWT3guA
+* Versión 2 → https://youtu.be/v_bE8iXMLqY
+* Versión 3 → https://youtu.be/jJcImn5ZUCw
 * Versión Final → https://youtu.be/XS9eTHN4k6E
 
 
