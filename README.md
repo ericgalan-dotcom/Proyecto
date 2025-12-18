@@ -10,7 +10,7 @@
 
 📡 Descripción del Proyecto
 
-Este proyecto consiste en un sistema satelital basado en **Arduino**, capaz de enviar datos en **tiempo real** a una **estación tierra**, donde se procesan y visualizan mediante una interfaz en Python.
+Este proyecto consiste en un sistema satelital basado en Arduino, capaz de enviar datos en tiempo real a una estación tierra, donde se procesan y visualizan mediante una interfaz en Python.
 
 
 
