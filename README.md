@@ -53,24 +53,24 @@ La interfaz permite:
 
 📨 Protocolo de Aplicación
 
-T:...:H:...:D:...:A:...    → Temperatura (T), Humedad (H), Distancia (D) y Ángulo del servo (A)
-FALLO                      → Error en sensor DHT11
-DIST                       → Error en sensor ultrasónico
-COMMS                      → Error en comunicaciones
-Barrido                    → Servo en barrido automático
-Manual                     → Servo en modo manual
-AlarmaLimiteOn             → Alarma de temperatura media activada
-AlarmaLimiteOff            → Alarma de temperatura media desactivada
-Iniciar                    → Iniciar envío de datos
-Parar                      → Detener envío de datos
-Reanudar                   → Reanudar envío de datos
-Medias                     → Cálculo de medias de temperatura
-MediaStop                  → Detener cálculo de medias
-PERIODO:<valor>            → Cambiar periodo de envío (ms)
-SumaAngulo15               → Incrementar ángulo del servo en 15°
-RestaAngulo15              → Reducir ángulo del servo en 15°
-BotonPulsado               → Activar/desactivar modo manual
-P: (X:... Y:... Z:...)     → Posición 3D del satélite
+* T:...:H:...:D:...:A:...    → Temperatura (T), Humedad (H), Distancia (D) y Ángulo del servo (A)
+* FALLO                      → Error en sensor DHT11
+* DIST                       → Error en sensor ultrasónico
+* COMMS                      → Error en comunicaciones
+* Barrido                    → Servo en barrido automático
+* Manual                     → Servo en modo manual
+* AlarmaLimiteOn             → Alarma de temperatura media activada
+* AlarmaLimiteOff            → Alarma de temperatura media desactivada
+* Iniciar                    → Iniciar envío de datos
+* Parar                      → Detener envío de datos
+* Reanudar                   → Reanudar envío de datos
+* Medias                     → Cálculo de medias de temperatura
+* MediaStop                  → Detener cálculo de medias
+* PERIODO:<valor>            → Cambiar periodo de envío (ms)
+* SumaAngulo15               → Incrementar ángulo del servo en 15°
+* RestaAngulo15              → Reducir ángulo del servo en 15°
+* BotonPulsado               → Activar/desactivar modo manual
+* P: (X:... Y:... Z:...)     → Posición 3D del satélite
 
 
 🔌 Conexiones
